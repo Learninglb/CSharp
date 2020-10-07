@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lorib\\RiderProjects\\MatchGame\\MatchGame\\MatchGame.csproj",
+      "projectUniqueName": "C:\\Users\\lorib\\GH\\CSharp\\MatchGame\\MatchGame\\MatchGame.csproj",
       "projectName": "MatchGame",
-      "projectPath": "C:\\Users\\lorib\\RiderProjects\\MatchGame\\MatchGame\\MatchGame.csproj",
+      "projectPath": "C:\\Users\\lorib\\GH\\CSharp\\MatchGame\\MatchGame\\MatchGame.csproj",
       "packagesPath": "C:\\Users\\lorib\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lorib\\RiderProjects\\MatchGame\\MatchGame\\obj\\",
+      "outputPath": "C:\\Users\\lorib\\GH\\CSharp\\MatchGame\\MatchGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lorib\\AppData\\Roaming\\NuGet\\NuGet.Config"
