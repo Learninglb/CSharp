@@ -1,0 +1,62 @@
+﻿<Window x:Class="ExperimentWithControls.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ExperimentWithControls"
+        mc:Ignorable="d"
+        Title="Experiment With Controls" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition Height = ".5*"/>
+        </Grid.RowDefinitions>
+        
+        <Label Content="Enter a number" FontSize="18"
+               Margin="10,10,0,0" HorizontalAlignment="Left"
+               VerticalAlignment="Top"/>
+        <TextBlock x:Name="number" Grid.Column="1" Text="#" FontSize="24"
+                   HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap"/>
+        <TextBox x:Name="numberTextBox" Grid.Column="0" Text="0" FontSize="18"
+                 Margin="10,49,0,0" Width="120"
+                 HorizontalAlignment="Left" VerticalAlignment="Top" TextWrapping="Wrap"
+                 TextChanged="numberTextBox_TextChanged"
+                 PreviewTextInput="numberTextBox_OnPreviewTextInput"/>
+        
+        <RadioButton Content ="1" Margin = "200,49,0,0"
+            HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <RadioButton Content ="2" Margin = "230,49,0,0"
+                     HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <RadioButton Content ="3" Margin = "260,49,0,0"
+                     HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <RadioButton Content ="4" Margin = "200,69,0,0"
+                     HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <RadioButton Content ="5" Margin = "230,69,0,0"
+                     HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        <RadioButton Content ="6" Margin = "260,69,0,0"
+                     HorizontalAlignment="Left" VerticalAlignment="Top"/>
+        
+        <ListBox x:Name ="myListBox" Grid.Row="1" Margin="10,10,10,10">
+            <ListBoxItem Content="1"/>
+            <ListBoxItem Content="2"/>
+            <ListBoxItem Content="3"/>
+            <ListBoxItem Content="4"/>
+            <ListBoxItem Content="5"/>
+        </ListBox>
+
+        <ComboBox x:Name="readOnlyComboBox" Grid.Column="1" Margin="10,10,0,0" 
+            Grid.Row="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120">
+            <ListBoxItem Content="1"/>
+            <ListBoxItem Content="2"/>
+            <ListBoxItem Content="3"/>
+            <ListBoxItem Content="4"/>
+            <ListBoxItem Content="5"/>
+        </ComboBox>
+
+    </Grid>
+</Window>
