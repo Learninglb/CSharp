@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.exe
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.deps.json
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.dll
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\bin\Debug\netcoreapp3.1\MyFirstConsoleApp.pdb
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.dll
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.pdb
+C:\Users\lorib\GH\CSharp\MyFirstConsoleApp\MyFirstConsoleApp\obj\Debug\netcoreapp3.1\MyFirstConsoleApp.genruntimeconfig.cache
