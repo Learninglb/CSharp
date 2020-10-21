@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.exe
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.deps.json
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.dll
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\bin\Debug\netcoreapp3.1\PickRandomCards.pdb
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.dll
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.pdb
+C:\Users\lorib\GH\CSharp\PickRandomCards\PickRandomCards\obj\Debug\netcoreapp3.1\PickRandomCards.genruntimeconfig.cache
