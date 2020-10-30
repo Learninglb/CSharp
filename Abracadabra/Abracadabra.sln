@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abracadabra", "Abracadabra\Abracadabra.csproj", "{8EDEEDA3-A546-4B22-8F17-1FE9322897AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EDEEDA3-A546-4B22-8F17-1FE9322897AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDEEDA3-A546-4B22-8F17-1FE9322897AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDEEDA3-A546-4B22-8F17-1FE9322897AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDEEDA3-A546-4B22-8F17-1FE9322897AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

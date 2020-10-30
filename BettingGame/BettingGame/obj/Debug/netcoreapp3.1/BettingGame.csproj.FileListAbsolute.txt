@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\obj\Debug\netcoreapp3.1\BettingGame.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\obj\Debug\netcoreapp3.1\BettingGame.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\obj\Debug\netcoreapp3.1\BettingGame.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\obj\Debug\netcoreapp3.1\BettingGame.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\bin\Debug\netcoreapp3.1\BettingGame.exe
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\bin\Debug\netcoreapp3.1\BettingGame.deps.json
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\bin\Debug\netcoreapp3.1\BettingGame.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\bin\Debug\netcoreapp3.1\BettingGame.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\bin\Debug\netcoreapp3.1\BettingGame.dll
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\bin\Debug\netcoreapp3.1\BettingGame.pdb
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\obj\Debug\netcoreapp3.1\BettingGame.dll
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\obj\Debug\netcoreapp3.1\BettingGame.pdb
+C:\Users\lorib\GH\CSharp\BettingGame\BettingGame\obj\Debug\netcoreapp3.1\BettingGame.genruntimeconfig.cache

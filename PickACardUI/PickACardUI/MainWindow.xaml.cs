@@ -33,6 +33,7 @@ namespace PickACardUI
             {
                 listOfCards.Items.Add(card);
             }
+            
         }
     }
     

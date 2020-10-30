@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\bin\Debug\netcoreapp3.1\Abracadabra.exe
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\bin\Debug\netcoreapp3.1\Abracadabra.deps.json
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\bin\Debug\netcoreapp3.1\Abracadabra.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\bin\Debug\netcoreapp3.1\Abracadabra.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\bin\Debug\netcoreapp3.1\Abracadabra.dll
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\bin\Debug\netcoreapp3.1\Abracadabra.pdb
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\obj\Debug\netcoreapp3.1\Abracadabra.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\obj\Debug\netcoreapp3.1\Abracadabra.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\obj\Debug\netcoreapp3.1\Abracadabra.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\obj\Debug\netcoreapp3.1\Abracadabra.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\obj\Debug\netcoreapp3.1\Abracadabra.dll
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\obj\Debug\netcoreapp3.1\Abracadabra.pdb
+C:\Users\lorib\GH\CSharp\Abracadabra\Abracadabra\obj\Debug\netcoreapp3.1\Abracadabra.genruntimeconfig.cache

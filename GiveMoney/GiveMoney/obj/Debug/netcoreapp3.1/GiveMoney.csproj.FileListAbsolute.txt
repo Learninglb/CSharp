@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\bin\Debug\netcoreapp3.1\GiveMoney.exe
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\bin\Debug\netcoreapp3.1\GiveMoney.deps.json
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\bin\Debug\netcoreapp3.1\GiveMoney.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\bin\Debug\netcoreapp3.1\GiveMoney.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\bin\Debug\netcoreapp3.1\GiveMoney.dll
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\bin\Debug\netcoreapp3.1\GiveMoney.pdb
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\obj\Debug\netcoreapp3.1\GiveMoney.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\obj\Debug\netcoreapp3.1\GiveMoney.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\obj\Debug\netcoreapp3.1\GiveMoney.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\obj\Debug\netcoreapp3.1\GiveMoney.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\obj\Debug\netcoreapp3.1\GiveMoney.dll
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\obj\Debug\netcoreapp3.1\GiveMoney.pdb
+C:\Users\lorib\GH\CSharp\GiveMoney\GiveMoney\obj\Debug\netcoreapp3.1\GiveMoney.genruntimeconfig.cache

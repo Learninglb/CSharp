@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\obj\Debug\netcoreapp3.1\AbilityScoreCalc.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\obj\Debug\netcoreapp3.1\AbilityScoreCalc.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\obj\Debug\netcoreapp3.1\AbilityScoreCalc.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\obj\Debug\netcoreapp3.1\AbilityScoreCalc.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\bin\Debug\netcoreapp3.1\AbilityScoreCalc.exe
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\bin\Debug\netcoreapp3.1\AbilityScoreCalc.deps.json
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\bin\Debug\netcoreapp3.1\AbilityScoreCalc.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\bin\Debug\netcoreapp3.1\AbilityScoreCalc.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\bin\Debug\netcoreapp3.1\AbilityScoreCalc.dll
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\bin\Debug\netcoreapp3.1\AbilityScoreCalc.pdb
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\obj\Debug\netcoreapp3.1\AbilityScoreCalc.dll
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\obj\Debug\netcoreapp3.1\AbilityScoreCalc.pdb
+C:\Users\lorib\GH\CSharp\AbilityScoreCalc\AbilityScoreCalc\obj\Debug\netcoreapp3.1\AbilityScoreCalc.genruntimeconfig.cache
