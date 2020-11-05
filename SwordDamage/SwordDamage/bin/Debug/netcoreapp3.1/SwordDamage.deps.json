@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SwordDamage/1.0.0": {
+        "runtime": {
+          "SwordDamage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SwordDamage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.exe
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.deps.json
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.dll
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\bin\Debug\netcoreapp3.1\SwordDamage.pdb
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.dll
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.pdb
+C:\Users\lorib\GH\CSharp\SwordDamage\SwordDamage\obj\Debug\netcoreapp3.1\SwordDamage.genruntimeconfig.cache
