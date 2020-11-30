@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\bin\Debug\netcoreapp3.1\ArrowDamage.exe
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\bin\Debug\netcoreapp3.1\ArrowDamage.deps.json
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\bin\Debug\netcoreapp3.1\ArrowDamage.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\bin\Debug\netcoreapp3.1\ArrowDamage.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\bin\Debug\netcoreapp3.1\ArrowDamage.dll
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\bin\Debug\netcoreapp3.1\ArrowDamage.pdb
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\obj\Debug\netcoreapp3.1\ArrowDamage.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\obj\Debug\netcoreapp3.1\ArrowDamage.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\obj\Debug\netcoreapp3.1\ArrowDamage.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\obj\Debug\netcoreapp3.1\ArrowDamage.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\obj\Debug\netcoreapp3.1\ArrowDamage.dll
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\obj\Debug\netcoreapp3.1\ArrowDamage.pdb
+C:\Users\lorib\GH\CSharp\ArrowDamage\ArrowDamage\obj\Debug\netcoreapp3.1\ArrowDamage.genruntimeconfig.cache

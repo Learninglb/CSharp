@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\obj\Debug\netcoreapp3.1\HiLoGame.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\obj\Debug\netcoreapp3.1\HiLoGame.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\obj\Debug\netcoreapp3.1\HiLoGame.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\obj\Debug\netcoreapp3.1\HiLoGame.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\bin\Debug\netcoreapp3.1\HiLoGame.exe
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\bin\Debug\netcoreapp3.1\HiLoGame.deps.json
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\bin\Debug\netcoreapp3.1\HiLoGame.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\bin\Debug\netcoreapp3.1\HiLoGame.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\bin\Debug\netcoreapp3.1\HiLoGame.dll
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\bin\Debug\netcoreapp3.1\HiLoGame.pdb
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\obj\Debug\netcoreapp3.1\HiLoGame.dll
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\obj\Debug\netcoreapp3.1\HiLoGame.pdb
+C:\Users\lorib\GH\CSharp\HiLoGame\HiLoGame\obj\Debug\netcoreapp3.1\HiLoGame.genruntimeconfig.cache

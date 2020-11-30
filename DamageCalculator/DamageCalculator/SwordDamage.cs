@@ -3,35 +3,61 @@
  {
     public class SwordDamage
     {
-        public const int BASE_DAMAGE = 3;
-        public const int FLAME_DAMAGE = 2;
+        private const int BASE_DAMAGE = 3;
+        private const int FLAME_DAMAGE = 2;
 
-        public int Roll;
-        public decimal MagicMultiplier = 1M;
-        public int FlamingDamage = 0;
-        public int Damage;
+
+        public int Damage { get; private set;}
+
+        private int roll;
+
+        public int Roll
+        {
+            get { return roll; }
+            set
+            {
+                roll = value;
+                CalculateDamage();
+            }
+        }
 
         public void CalculateDamage()
         {
-            Damage = (int) (Roll * MagicMultiplier) + BASE_DAMAGE + FlamingDamage;
-            Debug.WriteLine($"CalculateDamage finished: {Damage} (roll: {Roll}");
+            decimal MagicMultiplier = 1M;
+            if (Magic) MagicMultiplier = 1.75M;
+
+            Damage = BASE_DAMAGE;
+            Damage = (int) (Roll * MagicMultiplier) + BASE_DAMAGE;
+            if (Flaming) Damage += FLAME_DAMAGE;
         }
 
-        public void SetMagic(bool isMagic)
+        public SwordDamage(int startingRoll)
         {
-            MagicMultiplier = isMagic ? 1.75M : 1M;
+            roll = startingRoll;
             CalculateDamage();
-            Debug.WriteLine($"SetMagic finished: {Damage} (roll: {Roll})");
         }
-
-        public void SetFlaming(bool isFlaming)
+        private bool magic;
+        
+        public bool Magic
         {
-            CalculateDamage();
-            if (isFlaming)
+            get { return magic;}
+            set
             {
-                Damage += FLAME_DAMAGE;
+                magic = value;
+                CalculateDamage();
             }
-            Debug.WriteLine($"SetFlaming finished: {Damage} (roll: {Roll})");
+        }
+
+        private bool flaming;
+        
+        public bool Flaming
+        {
+            get { return flaming;}
+            set
+            {
+                flaming = value;
+                CalculateDamage();
+            }
         }
     }
 }

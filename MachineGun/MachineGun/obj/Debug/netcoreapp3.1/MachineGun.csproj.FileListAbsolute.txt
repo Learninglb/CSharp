@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.exe
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.deps.json
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.dll
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\bin\Debug\netcoreapp3.1\MachineGun.pdb
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.dll
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.pdb
+C:\Users\lorib\GH\CSharp\MachineGun\MachineGun\obj\Debug\netcoreapp3.1\MachineGun.genruntimeconfig.cache
