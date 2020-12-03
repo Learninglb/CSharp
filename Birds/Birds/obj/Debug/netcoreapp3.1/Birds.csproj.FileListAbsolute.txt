@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\Birds\Birds\bin\Debug\netcoreapp3.1\Birds.exe
+C:\Users\lorib\GH\CSharp\Birds\Birds\bin\Debug\netcoreapp3.1\Birds.deps.json
+C:\Users\lorib\GH\CSharp\Birds\Birds\bin\Debug\netcoreapp3.1\Birds.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\Birds\Birds\bin\Debug\netcoreapp3.1\Birds.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\Birds\Birds\bin\Debug\netcoreapp3.1\Birds.dll
+C:\Users\lorib\GH\CSharp\Birds\Birds\bin\Debug\netcoreapp3.1\Birds.pdb
+C:\Users\lorib\GH\CSharp\Birds\Birds\obj\Debug\netcoreapp3.1\Birds.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\Birds\Birds\obj\Debug\netcoreapp3.1\Birds.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\Birds\Birds\obj\Debug\netcoreapp3.1\Birds.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\Birds\Birds\obj\Debug\netcoreapp3.1\Birds.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\Birds\Birds\obj\Debug\netcoreapp3.1\Birds.dll
+C:\Users\lorib\GH\CSharp\Birds\Birds\obj\Debug\netcoreapp3.1\Birds.pdb
+C:\Users\lorib\GH\CSharp\Birds\Birds\obj\Debug\netcoreapp3.1\Birds.genruntimeconfig.cache

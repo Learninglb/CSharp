@@ -1,0 +1,13 @@
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\bin\Debug\netcoreapp3.1\WeaponDamage.exe
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\bin\Debug\netcoreapp3.1\WeaponDamage.deps.json
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\bin\Debug\netcoreapp3.1\WeaponDamage.runtimeconfig.json
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\bin\Debug\netcoreapp3.1\WeaponDamage.runtimeconfig.dev.json
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\bin\Debug\netcoreapp3.1\WeaponDamage.dll
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\bin\Debug\netcoreapp3.1\WeaponDamage.pdb
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\obj\Debug\netcoreapp3.1\WeaponDamage.csprojAssemblyReference.cache
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\obj\Debug\netcoreapp3.1\WeaponDamage.AssemblyInfoInputs.cache
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\obj\Debug\netcoreapp3.1\WeaponDamage.AssemblyInfo.cs
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\obj\Debug\netcoreapp3.1\WeaponDamage.csproj.CoreCompileInputs.cache
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\obj\Debug\netcoreapp3.1\WeaponDamage.dll
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\obj\Debug\netcoreapp3.1\WeaponDamage.pdb
+C:\Users\lorib\GH\CSharp\WeaponDamage\WeaponDamage\obj\Debug\netcoreapp3.1\WeaponDamage.genruntimeconfig.cache
