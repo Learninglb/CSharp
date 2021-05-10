@@ -3,7 +3,7 @@
 
 namespace WeaponDamage
 {
-    public class WeaponDamage
+    abstract class WeaponDamage
    {
        public int Damage { get; protected set; }
 
@@ -40,10 +40,7 @@ namespace WeaponDamage
             }
         }
 
-        protected virtual void CalculateDamage()
-        {
-            /* the subclass overrides this */
-        }
+        protected abstract void CalculateDamage();
 
 
         public WeaponDamage(int startingRoll)

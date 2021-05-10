@@ -23,18 +23,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4eece8b2-d303-45b6-ae44-0936b83ce461" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Birds/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Birds/.idea/contentModel.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Birds/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Birds/.idea/indexLayout.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Birds/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Birds/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Birds/.idea/projectSettingsUpdater.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Birds/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.Birds/riderModule.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Birds/Bird.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Birds/BrokenEgg.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Birds/Egg.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeeHive/.idea/.idea.BeeHive/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeeHive/.idea/.idea.BeeHive/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeeHive/.idea/.idea.BeeHive/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeeHive/.idea/.idea.BeeHive/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeeHive/.idea/.idea.BeeHive/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeeHive/.idea/.idea.BeeHive/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeeHive/.idea/.idea.BeeHive/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeeHive/BeeHive/Bee.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BeeHive/BeeHive/HoneyVault.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birds/Bird.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Birds/Bird.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birds/bin/Debug/netcoreapp3.1/Birds.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Birds/bin/Debug/netcoreapp3.1/Birds.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birds/bin/Debug/netcoreapp3.1/Birds.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Birds/bin/Debug/netcoreapp3.1/Birds.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birds/obj/Debug/netcoreapp3.1/Birds.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Birds/obj/Debug/netcoreapp3.1/Birds.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Birds/obj/Debug/netcoreapp3.1/Birds.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Birds/obj/Debug/netcoreapp3.1/Birds.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DamageCalculator/DamageCalculator/obj/Debug/netcoreapp3.1/DamageCalculator_MarkupCompile.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../DamageCalculator/DamageCalculator/obj/Debug/netcoreapp3.1/DamageCalculator_MarkupCompile.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DamageCalculator/DamageCalculator/obj/Debug/netcoreapp3.1/MainWindow.baml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/bin/Debug/netcoreapp3.1/WeaponDamage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/bin/Debug/netcoreapp3.1/WeaponDamage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/bin/Debug/netcoreapp3.1/WeaponDamage.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/bin/Debug/netcoreapp3.1/WeaponDamage.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/obj/Debug/netcoreapp3.1/WeaponDamage.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/obj/Debug/netcoreapp3.1/WeaponDamage.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/obj/Debug/netcoreapp3.1/WeaponDamage.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/obj/Debug/netcoreapp3.1/WeaponDamage.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/obj/Debug/netcoreapp3.1/WeaponDamage.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../WeaponDamage/WeaponDamage/obj/Debug/netcoreapp3.1/WeaponDamage.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +110,7 @@
       <updated>1606932658632</updated>
       <workItem from="1606932668725" duration="3911000" />
       <workItem from="1607015234699" duration="2957000" />
+      <workItem from="1607527130578" duration="122000" />
     </task>
     <servers />
   </component>
@@ -125,21 +135,21 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1482" height="445" key="GridCell.Tab.0.bottom" timestamp="1607028029601">
+    <state width="1482" height="445" key="GridCell.Tab.0.bottom" timestamp="1607527252911">
       <screen x="0" y="0" width="2880" height="1580" />
     </state>
-    <state width="1482" height="445" key="GridCell.Tab.0.bottom/0.0.2880.1580@0.0.2880.1580" timestamp="1607028029601" />
-    <state width="1482" height="445" key="GridCell.Tab.0.center" timestamp="1607028029601">
+    <state width="1482" height="445" key="GridCell.Tab.0.bottom/0.0.2880.1580@0.0.2880.1580" timestamp="1607527252911" />
+    <state width="1482" height="445" key="GridCell.Tab.0.center" timestamp="1607527252911">
       <screen x="0" y="0" width="2880" height="1580" />
     </state>
-    <state width="1482" height="445" key="GridCell.Tab.0.center/0.0.2880.1580@0.0.2880.1580" timestamp="1607028029601" />
-    <state width="1482" height="445" key="GridCell.Tab.0.left" timestamp="1607028029601">
+    <state width="1482" height="445" key="GridCell.Tab.0.center/0.0.2880.1580@0.0.2880.1580" timestamp="1607527252911" />
+    <state width="1482" height="445" key="GridCell.Tab.0.left" timestamp="1607527252911">
       <screen x="0" y="0" width="2880" height="1580" />
     </state>
-    <state width="1482" height="445" key="GridCell.Tab.0.left/0.0.2880.1580@0.0.2880.1580" timestamp="1607028029601" />
-    <state width="1482" height="445" key="GridCell.Tab.0.right" timestamp="1607028029601">
+    <state width="1482" height="445" key="GridCell.Tab.0.left/0.0.2880.1580@0.0.2880.1580" timestamp="1607527252911" />
+    <state width="1482" height="445" key="GridCell.Tab.0.right" timestamp="1607527252911">
       <screen x="0" y="0" width="2880" height="1580" />
     </state>
-    <state width="1482" height="445" key="GridCell.Tab.0.right/0.0.2880.1580@0.0.2880.1580" timestamp="1607028029601" />
+    <state width="1482" height="445" key="GridCell.Tab.0.right/0.0.2880.1580@0.0.2880.1580" timestamp="1607527252911" />
   </component>
 </project>
